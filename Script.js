@@ -15,6 +15,10 @@
 
     // Your code here...
 
+
+
+
+
     const preferredValue = prompt("Please enter your preferred value [1,2,3,4,5]:");
     const amountOfQuestions = prompt("Enter all of the number of questions: ");
 
